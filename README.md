@@ -13,4 +13,4 @@
 
 
 # Preview
- [!assets/img/Print.jpg](./assets/img/Print.jpg)
+ ![assets/img/Print.jpg](./assets/img/Print.jpg)
