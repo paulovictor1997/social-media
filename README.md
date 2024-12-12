@@ -9,7 +9,7 @@
 ## Links 
 
  - Front End Mentor Profile:[https://www.frontendmentor.io/profile/paulovictor1997](https://www.frontendmentor.io/profile/paulovictor1997)
- - Live Site : []()
+ - Live Site : [https://paulovictor1997.github.io/social-media/](https://paulovictor1997.github.io/social-media/)
 
 
 # Preview
